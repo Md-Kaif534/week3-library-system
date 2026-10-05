@@ -26,7 +26,7 @@ A Java console application for managing library operations including book tracki
 
 ### Option A — Plain `javac` / `java` (no Maven needed)
 ```bash
-git clone https://github.com/<your-username>/week3-library-system.git
+git clone https://github.com/Md-Kaif534/week3-library-system.git
 cd week3-library-system
 
 # Compile
